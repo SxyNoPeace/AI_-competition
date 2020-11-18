@@ -1,1 +1,1 @@
-# AI_-competition
+# AI_competition
